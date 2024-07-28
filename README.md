@@ -3,7 +3,7 @@
 The Digital Check-In Check-Out System automates attendance and leave management for educational institutions using RFID technology and MongoDB. It replaces manual processes with a streamlined solution for tracking student attendance and leave requests, providing real-time insights and improving administrative efficiency.
 
 ## Features
-### RFID Integration: Uses smart ID cards for automated check-ins and check-outs.
+#### RFID Integration: Uses smart ID cards for automated check-ins and check-outs.
 MongoDB Database: Stores student data and transaction logs.
 Express.js Backend: Handles API requests and database operations.
 Dynamic Frontend: Displays student details and statuses in real-time.
