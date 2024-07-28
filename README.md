@@ -1,4 +1,4 @@
-*Digital Check-In Check-Out System*
+# Digital Check-In Check-Out System
 Project Description
 The Digital Check-In Check-Out System automates attendance and leave management for educational institutions using RFID technology and MongoDB. It replaces manual processes with a streamlined solution for tracking student attendance and leave requests, providing real-time insights and improving administrative efficiency.
 
